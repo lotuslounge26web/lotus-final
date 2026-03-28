@@ -799,6 +799,17 @@ export default function HomePage() {
                     For cancellations or rescheduling, please contact us directly at the
                     spa or through the hotel reception.
                   </p>
+                <div>
+                    <p className="font-semibold text-[#3E2723] mb-2">
+                      Pricing &amp; Service Updates
+                    </p>
+                    <p>
+                      Treatment prices and services are subject to change without
+                      prior notice. Please confirm current pricing directly with
+                      our team at the time of booking.
+                    </p>
+                  </div>
+                
                 </>
               ) : (
                 <>
@@ -840,7 +851,17 @@ export default function HomePage() {
                       effective care.
                     </p>
                   </div>
-
+<div>
+                    <p className="font-semibold text-[#3E2723] mb-2">
+                      Right to Modify Treatment
+                    </p>
+                    <p>
+                      For your safety, our therapists reserve the right to adjust
+                      or discontinue a treatment if a health condition is
+                      identified during the session. In such cases, the full
+                      treatment fee may still apply.
+                    </p>
+                  </div>
                   <div>
                     <p className="font-semibold text-[#3E2723] mb-2">
                       Valuables
@@ -861,7 +882,27 @@ export default function HomePage() {
                       your discretion.
                     </p>
                   </div>
-
+<div>
+                    <p className="font-semibold text-[#3E2723] mb-2">
+                      Disclaimer
+                    </p>
+                    <p>
+                      Lotus Lounge &amp; Spa makes every effort to ensure a safe
+                      and effective experience. However, individual results from
+                      treatments may vary. We are not liable for reactions arising
+                      from undisclosed health conditions, allergies, or
+                      sensitivities. By proceeding with a treatment, guests
+                      acknowledge they have informed our therapists of any
+                      relevant health information.
+                    </p>
+                    <p className="mt-3">
+                      All content on this website — including text, images, and
+                      branding — is the property of Lotus Lounge &amp; Spa and
+                      may not be reproduced without written permission. Any
+                      disputes arising from the use of this website or our
+                      services shall be governed by the laws of Sri Lanka.
+                    </p>
+                  </div>
                   <p>
                     Thank you for helping us maintain a serene and respectful
                     environment for all our guests.
