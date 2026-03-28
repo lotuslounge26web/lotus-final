@@ -809,7 +809,14 @@ export default function HomePage() {
                       our team at the time of booking.
                     </p>
                   </div>
-                
+               <hr className="border-[#3E2723]/20 mt-6" />
+                    <p className="mt-4 text-[#4A4A4A]/70 text-xs">
+                      All content on this website — including text, images, and
+                      branding — is the property of Lotus Lounge &amp; Spa and
+                      may not be reproduced without written permission. Any
+                      disputes arising from the use of this website or our
+                      services shall be governed by the laws of Sri Lanka.
+                    </p>
                 </>
               ) : (
                 <>
@@ -895,13 +902,7 @@ export default function HomePage() {
                       acknowledge they have informed our therapists of any
                       relevant health information.
                     </p>
-                    <p className="mt-3">
-                      All content on this website — including text, images, and
-                      branding — is the property of Lotus Lounge &amp; Spa and
-                      may not be reproduced without written permission. Any
-                      disputes arising from the use of this website or our
-                      services shall be governed by the laws of Sri Lanka.
-                    </p>
+                   
                   </div>
                   <p>
                     Thank you for helping us maintain a serene and respectful
